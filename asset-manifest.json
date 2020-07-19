@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.ce5bacc3.chunk.css",
-    "main.js": "/jamming/static/js/main.0e83455e.chunk.js",
-    "main.js.map": "/jamming/static/js/main.0e83455e.chunk.js.map",
-    "runtime-main.js": "/jamming/static/js/runtime-main.6d782cb8.js",
-    "runtime-main.js.map": "/jamming/static/js/runtime-main.6d782cb8.js.map",
-    "static/js/2.7da80ee2.chunk.js": "/jamming/static/js/2.7da80ee2.chunk.js",
-    "static/js/2.7da80ee2.chunk.js.map": "/jamming/static/js/2.7da80ee2.chunk.js.map",
-    "index.html": "/jamming/index.html",
-    "precache-manifest.a80c9bb4a11e30adafb1f172bf613dc2.js": "/jamming/precache-manifest.a80c9bb4a11e30adafb1f172bf613dc2.js",
-    "service-worker.js": "/jamming/service-worker.js",
-    "static/css/main.ce5bacc3.chunk.css.map": "/jamming/static/css/main.ce5bacc3.chunk.css.map",
-    "static/js/2.7da80ee2.chunk.js.LICENSE.txt": "/jamming/static/js/2.7da80ee2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/jamming/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/Jamminga/static/css/main.5d613fca.chunk.css",
+    "main.js": "/Jamminga/static/js/main.218d868c.chunk.js",
+    "main.js.map": "/Jamminga/static/js/main.218d868c.chunk.js.map",
+    "runtime-main.js": "/Jamminga/static/js/runtime-main.08b859df.js",
+    "runtime-main.js.map": "/Jamminga/static/js/runtime-main.08b859df.js.map",
+    "static/js/2.7da80ee2.chunk.js": "/Jamminga/static/js/2.7da80ee2.chunk.js",
+    "static/js/2.7da80ee2.chunk.js.map": "/Jamminga/static/js/2.7da80ee2.chunk.js.map",
+    "index.html": "/Jamminga/index.html",
+    "precache-manifest.5064cb0febf88c257c36c3c06053fd23.js": "/Jamminga/precache-manifest.5064cb0febf88c257c36c3c06053fd23.js",
+    "service-worker.js": "/Jamminga/service-worker.js",
+    "static/css/main.5d613fca.chunk.css.map": "/Jamminga/static/css/main.5d613fca.chunk.css.map",
+    "static/js/2.7da80ee2.chunk.js.LICENSE.txt": "/Jamminga/static/js/2.7da80ee2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Jamminga/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d782cb8.js",
+    "static/js/runtime-main.08b859df.js",
     "static/js/2.7da80ee2.chunk.js",
-    "static/css/main.ce5bacc3.chunk.css",
-    "static/js/main.0e83455e.chunk.js"
+    "static/css/main.5d613fca.chunk.css",
+    "static/js/main.218d868c.chunk.js"
   ]
 }
